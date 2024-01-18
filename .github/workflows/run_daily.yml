@@ -4,24 +4,24 @@ on:
   workflow_dispatch:
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: lzkzs
+  GITHUB_EMAIL: lzkzs@gmail.com
 
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      # - uses: actions/checkout@v3
-      #   with:
-      #     fetch-depth: 0
-      #     ref: main
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
 
-      # - name: My GitHub Status
-      #   uses: yihong0618/github-readme-stats@main
-      #   with:
-      #    GH_TOKEN: "${{ secrets.G_T }}"
-      #    WITH_STARED: false
+      - name: My GitHub Status
+        uses: lzkzs/github-readme-stats@main
+        with:
+         GH_TOKEN: "${{ secrets.G_T }}"
+         WITH_STARED: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,9 +31,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          ls -al
           echo "当前仓库名称是 ${{ github.repository }}"
-          pip install -r ../requirements.txt
+          pip install -r requirements.txt
 
       # - name: Generate new daily
       #   run: |
