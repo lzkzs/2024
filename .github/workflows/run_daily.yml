@@ -39,7 +39,7 @@ jobs:
         run: |
           echo "当前仓库名称是 ${{ github.repository }}"
           # python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }} 
-          python main.py ${{ secrets.G_T }} 'lzkzs/2024' 
+          python main.py ${{ secrets.G_T }} ${{ github.repository }}   ${{ github.repository }}  
 
       # - name: Push README
       #   run: |
