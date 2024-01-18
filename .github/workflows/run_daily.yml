@@ -12,10 +12,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          ref: main
+      # - uses: actions/checkout@v3
+      #   with:
+      #     fetch-depth: 0
+      #     ref: main
 
       # - name: My GitHub Status
       #   uses: yihong0618/github-readme-stats@main
@@ -35,13 +35,14 @@ jobs:
 
       - name: Generate new daily
         run: |
+          echo "当前仓库名称是 ${{ github.repository }}"
           # python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }} 
           python main.py ${{ secrets.G_T }} ${{ github.repository }} 
 
-      - name: Push README
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "new daily stats" || echo "no file change"
-          git push || echo "no need push"
+      # - name: Push README
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "GitHub Action"
+      #     git add .
+      #     git commit -m "new daily stats" || echo "no file change"
+      #     git push || echo "no need push"
