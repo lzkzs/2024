@@ -18,7 +18,7 @@ jobs:
           ref: main
 
       - name: My GitHub Status
-        uses: lzkzs/github-readme-stats@main
+        uses: yihong0618/github-readme-stats@main
         with:
          GH_TOKEN: "${{ secrets.G_T }}"
          WITH_STARED: false
@@ -31,6 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          ls -al
           echo "当前仓库名称是 ${{ github.repository }}"
           pip install -r requirements.txt
 
