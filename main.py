@@ -61,6 +61,6 @@ if __name__ == "__main__":
     main(
         options.github_token,
         options.repo_name,
-        True,
+        options.issue_number,
         options.issue_label_name,
     )
