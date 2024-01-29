@@ -80,8 +80,8 @@ LABEL_DICT = {
 # MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
 
 # if you are not me change here
-##### CICHANG ######
-# MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
+#### CICHANG ######
+MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
 
 ##### FORST ######
 FOREST_URL_HEAD = "https://forest-china.upwardsware.com"
