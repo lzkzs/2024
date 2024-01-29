@@ -76,8 +76,8 @@ LABEL_DICT = {
 # MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
 
 # if you are not me change here
-##### DUO ######
-# MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
+#### DUO ######
+MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
 
 # if you are not me change here
 #### CICHANG ######
