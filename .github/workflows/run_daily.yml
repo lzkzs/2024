@@ -1,7 +1,6 @@
 name: Get Daily
 
-on:
-  workflow_dispatch:
+on: [push]
 
 env:
   GITHUB_NAME: lzkzs
