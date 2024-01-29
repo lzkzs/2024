@@ -7,12 +7,11 @@ on:
         description: 'Test'
         required: false
   issue_comment:
-    types: [created,edited]
+    types: [created, edited]
 
 env:
   GITHUB_NAME: lzkzs
   GITHUB_EMAIL: the.reality.is.the.cage@gmail.com
-  BOOKMARK_ISSUE_ID: 5
 
 jobs:
   sync:
@@ -22,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v1
         with:
           python-version: 3.8
       - name: Configure pip cache
@@ -45,19 +44,14 @@ jobs:
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}' --issue_label_name '${{ github.event.issue.labels[0].name }}' 
         if: ${{ github.event.issue.number }} != ${{ env.BOOKMARK_ISSUE_ID }}
-      - name: Make bookmark
-        run: |
-          source venv/bin/activate
-          python make_bookmark.py ${{ secrets.G_T }} ${{ github.repository }}
-        if:  github.event.issue.number == ${{ env.BOOKMARK_ISSUE_ID }}  
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: Run safe dir
         run: |
-          git config --global --add safe.directory /github/
+          git config --global --add safe.directory /github/workspace
       - name: Push README
         run: |
-         git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name lzkzs
+          git config --local user.email the.reality.is.the.cage@gmail.com
           git add .
           git commit -m "generated readme" || echo "no need to commit "
           git push || echo "no file change"
