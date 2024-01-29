@@ -73,7 +73,7 @@ LABEL_DICT = {
 # ##### SHANBAY ######
 # MY_SHANBAY_USER_NAME = "ufewz"
 # SHANBAY_CALENDAR_API = "https://apiv3.shanbay.com/uc/checkin/calendar/dates/?user_id={user_name}&start_date={start_date}&end_date={end_date}"
-# MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
+MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
 
 # if you are not me change here
 #### DUO ######
