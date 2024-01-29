@@ -5,7 +5,7 @@ on:
 
 env:
   GITHUB_NAME: lzkzs
-  GITHUB_EMAIL: lzkzs@gmail.com
+  GITHUB_EMAIL: the.reality.is.the.cage@gmail.com
 
 jobs:
   build:
@@ -41,10 +41,10 @@ jobs:
           # python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }} 
           python main.py ${{ secrets.G_T }} ${{ github.repository }}
 
-      # - name: Push README
-      #   run: |
-      #     git config --local user.email "action@github.com"
-      #     git config --local user.name "GitHub Action"
-      #     git add .
-      #     git commit -m "new daily stats" || echo "no file change"
-      #     git push || echo "no need push"
+      - name: Push README
+        run: |
+          git config --local user.email "the.reality.is.the.cage@gmail.com"
+          git config --local user.name "lzkzs"
+          git add .
+          git commit -m "new daily stats" || echo "no file change"
+          git push || echo "no need push"

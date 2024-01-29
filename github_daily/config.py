@@ -1,6 +1,6 @@
 # if you are not me change here
-YEAR = 2023
-REPO_NAME = f"yihong0618/{YEAR}"
+YEAR = 2024
+REPO_NAME = f"lzkzs/{YEAR}"
 COOK_LABEL_LIST = [
     "Cook",
 ]
@@ -54,7 +54,7 @@ TIMELINE_LABEL_LIST = [
 
 
 # if you are not me change here
-MY_BLOG_REPO = "yihong0618/gitblog"
+MY_BLOG_REPO = "lzkzs/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
@@ -70,29 +70,29 @@ LABEL_DICT = {
 }
 
 
-##### SHANBAY ######
-MY_SHANBAY_USER_NAME = "ufewz"
-SHANBAY_CALENDAR_API = "https://apiv3.shanbay.com/uc/checkin/calendar/dates/?user_id={user_name}&start_date={start_date}&end_date={end_date}"
-MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
+# ##### SHANBAY ######
+# MY_SHANBAY_USER_NAME = "ufewz"
+# SHANBAY_CALENDAR_API = "https://apiv3.shanbay.com/uc/checkin/calendar/dates/?user_id={user_name}&start_date={start_date}&end_date={end_date}"
+# MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone"
 
 # if you are not me change here
 ##### DUO ######
-MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
+# MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
 
 # if you are not me change here
 ##### CICHANG ######
-MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
+# MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
 
 ##### FORST ######
-FOREST_URL_HEAD = "https://forest-china.upwardsware.com"
-FOREST_LOGIN_URL = FOREST_URL_HEAD + "/api/v1/sessions"
-FOREST_CLAENDAR_URL = (
-    FOREST_URL_HEAD
-    + "/api/v1/plants/updated_plants?update_since={date}&seekruid={user_id}"
-)
-FOREST_TAG_URL = FOREST_URL_HEAD + "/api/v1/tags?seekruid={user_id}"
+# FOREST_URL_HEAD = "https://forest-china.upwardsware.com"
+# FOREST_LOGIN_URL = FOREST_URL_HEAD + "/api/v1/sessions"
+# FOREST_CLAENDAR_URL = (
+#     FOREST_URL_HEAD
+#     + "/api/v1/plants/updated_plants?update_since={date}&seekruid={user_id}"
+# )
+# FOREST_TAG_URL = FOREST_URL_HEAD + "/api/v1/tags?seekruid={user_id}"
 
-##### BASE COMMENT TABLE ######
+#### BASE COMMENT TABLE ######
 BASE_ISSUE_STAT_HEAD = "| Name | Start | Update | \n | ---- | ---- | ---- | \n"
 BASE_ISSUE_STAT_TEMPLATE = "| {name} | {start} | {update} | \n"
 
