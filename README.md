@@ -77,25 +77,11 @@ From one Friend WeChat
 <!--START_SECTION:my_movie-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《满江红》](https://github.com/yihong0618/2023/issues/9#issuecomment-1399883370) | 2023-01-23 | 2023-01-23 | 
-| [《国产零零漆》](https://github.com/yihong0618/2023/issues/9#issuecomment-1402068288) | 2023-01-24 | 2023-01-24 | 
-| [《流浪地球2》](https://github.com/yihong0618/2023/issues/9#issuecomment-1407600386) | 2023-01-29 | 2023-01-29 | 
-| [《秒速五厘米》](https://github.com/yihong0618/2023/issues/9#issuecomment-1457248372) | 2023-03-07 | 2023-03-07 | 
-| [《铃芽之旅》](https://github.com/yihong0618/2023/issues/9#issuecomment-1500832263) | 2023-04-08 | 2023-04-08 | 
-| [《灌篮高手》](https://github.com/yihong0618/2023/issues/9#issuecomment-1563733152) | 2023-05-26 | 2023-05-26 | 
-| [《疾速追杀4》](https://github.com/yihong0618/2023/issues/9#issuecomment-1565193212) | 2023-05-27 | 2023-05-27 | 
-| [《蜘蛛侠纵横宇宙》](https://github.com/yihong0618/2023/issues/9#issuecomment-1586464490) | 2023-06-12 | 2023-06-12 | 
-| [《蜘蛛侠平行宇宙》](https://github.com/yihong0618/2023/issues/9#issuecomment-1589387846) | 2023-06-13 | 2023-06-13 | 
-| [《闪电侠》](https://github.com/yihong0618/2023/issues/9#issuecomment-1606380858) | 2023-06-26 | 2023-06-26 | 
-| [《长安三万里》](https://github.com/yihong0618/2023/issues/9#issuecomment-1647596991) | 2023-07-24 | 2023-07-24 | 
-| [《疯狂的石头》](https://github.com/yihong0618/2023/issues/9#issuecomment-1657060294) | 2023-07-30 | 2023-07-30 | 
-| [《记忆碎片》](https://github.com/yihong0618/2023/issues/9#issuecomment-1692548509) | 2023-08-24 | 2023-08-24 | 
-| [《奥本海默》](https://github.com/yihong0618/2023/issues/9#issuecomment-1704649336) | 2023-09-04 | 2023-09-04 | 
-| [《第八个嫌疑人》](https://github.com/yihong0618/2023/issues/9#issuecomment-1712473778) | 2023-09-09 | 2023-09-09 | 
-| [《坚如磐石》](https://github.com/yihong0618/2023/issues/9#issuecomment-1742839998) | 2023-10-02 | 2023-10-02 | 
-| [《疯狂的赛车》](https://github.com/yihong0618/2023/issues/9#issuecomment-1763717875) | 2023-10-16 | 2023-10-16 | 
-| [《涉过愤怒的海》](https://github.com/yihong0618/2023/issues/9#issuecomment-1837722894) | 2023-12-04 | 2023-12-04 | 
-| [《河边的错误》](https://github.com/yihong0618/2023/issues/9#issuecomment-1853268522) | 2023-12-13 | 2023-12-13 | 
+| [《一一》](https://github.com/lzkzs/2024/issues/1#issuecomment-1898075486) | 2024-01-18 | 2024-01-18 | 
+| [《鸟瞰欧洲》](https://github.com/lzkzs/2024/issues/1#issuecomment-1914331670) | 2024-01-29 | 2024-01-29 | 
+| [《2077》](https://github.com/lzkzs/2024/issues/1#issuecomment-1914347767) | 2024-01-29 | 2024-01-29 | 
+| [<yiyi>](https://github.com/lzkzs/2024/issues/1#issuecomment-1914351413) | 2024-01-29 | 2024-01-29 | 
+| [《yiyi》](https://github.com/lzkzs/2024/issues/1#issuecomment-1914351794) | 2024-01-29 | 2024-01-29 | 
 
 <!--END_SECTION:my_movie-->
 
