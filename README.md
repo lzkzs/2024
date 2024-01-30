@@ -26,18 +26,18 @@
 | sum |      |           |          |          |       0 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [android-alarmmanager-demo](https://github.com/Nerdwin15/android-alarmmanager-demo) | 2016-02-26 | Java       | 2020-01-17   |
-|  2 | [evil-huawei](https://github.com/evil-huawei/evil-huawei)                           | 2019-12-02 | JavaScript | 2024-01-30   |
-|  3 | [Mybatis-Spring](https://github.com/abel533/Mybatis-Spring)                         | 2016-01-25 | Java       | 2024-01-25   |
-|  4 | [40-questions](https://github.com/kepano/40-questions)                              | 2024-01-30 | md         | 2024-01-30   |
-|  5 | [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)                      | 2016-01-26 | md         | 2024-01-28   |
-|  6 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)     | 2024-01-29 | TypeScript | 2024-01-30   |
-|  7 | [HowToCook](https://github.com/Anduin2017/HowToCook)                                | 2024-01-29 | Shell      | 2024-01-30   |
-|  8 | [AndroidRecyclerViewDemo](https://github.com/Frank-Zhu/AndroidRecyclerViewDemo)     | 2016-03-23 | Java       | 2023-11-23   |
-|  9 | [ActivityRouter](https://github.com/mzule/ActivityRouter)                           | 2016-04-15 | Java       | 2024-01-24   |
-| 10 | [newbee-mall-manage](https://github.com/newbee-ltd/newbee-mall-manage)              | 2020-06-02 | JavaScript | 2024-01-25   |
+| ID |                                          REPO                                          | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [openpilot](https://github.com/commaai/openpilot)                                      | 2024-01-01 | Python     | 2024-01-30   |
+|  2 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)        | 2024-01-29 | TypeScript | 2024-01-30   |
+|  3 | [996.ICU](https://github.com/996icu/996.ICU)                                           | 2019-03-28 | md         | 2024-01-30   |
+|  4 | [hyena](https://github.com/alphajiang/hyena)                                           | 2020-05-22 | Java       | 2024-01-27   |
+|  5 | [evil-huawei](https://github.com/evil-huawei/evil-huawei)                              | 2019-12-02 | JavaScript | 2024-01-30   |
+|  6 | [newbee-mall-api](https://github.com/newbee-ltd/newbee-mall-api)                       | 2020-06-02 | Java       | 2024-01-30   |
+|  7 | [AndroidRecyclerViewDemo](https://github.com/Frank-Zhu/AndroidRecyclerViewDemo)        | 2016-03-23 | Java       | 2023-11-23   |
+|  8 | [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)                         | 2016-01-26 | md         | 2024-01-28   |
+|  9 | [android-alarmmanager-demo](https://github.com/Nerdwin15/android-alarmmanager-demo)    | 2016-02-26 | Java       | 2020-01-17   |
+| 10 | [AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack) | 2016-04-18 | Java       | 2024-01-18   |
 
 <!--END_SECTION:my_github-->
 
