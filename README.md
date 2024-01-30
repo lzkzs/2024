@@ -19,15 +19,6 @@ From one Friend WeChat
 
 <!--END_SECTION:my_number-->
 
-## 跑步
-
-![](https://github.com/yihong0618/run/blob/master/assets/github_2023.svg)
-
-## 我的 GitHub
-<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true&theme=radical" />
-
-![](https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/github.svg)
-
 <!--START_SECTION:my_github-->
 ## The repos I created
 | ID  |                               REPO                                |   START    |   UPDATE   | LANGUAGE | STARS |
@@ -86,26 +77,3 @@ From one Friend WeChat
 
 <!--END_SECTION:my_bangumi-->
 
-## 写博客
-<!--START_SECTION:my_blog-->
-| Name | Start | Update | Comments | 
- | ---- | ---- | ---- | ---- |
-
-<!--END_SECTION:my_blog-->
-
-## 收藏的博客
-| 博客名称 | 添加日期 | type | 备注 |
-| ------- | ------- | ---- | ---- |
-| [niyue](https://niyue.com/) | 2023.01.20 | 第一个 | 写 20 年博客的前辈 |
-| [Ryo](https://fanlv.fun/archives/) | 2023.01.29 | 底层 | 字节跳动 |
-| [baotiao](http://baotiao.github.io/) | 2023.01.31 | 数据库 | 做有积累的事情 |
-| [javabin](http://javabin.cn/archives/) | 2023.02.03 | hacker | 好 cool 的人 |
-| [soulteary](https://soulteary.com/) | 2023.02.07 | DIY 神 | 向往 |
-| [7dot9](https://7dot9.com/) | 2023.02.26 | 前辈 | 梦在这里可以飞翔 |
-| [chrisdown](https://chrisdown.name/archive.html) | 2023.03.05 | SRE | Linux |
-| [thea](https://blog.thea.codes/) | 2023.04.11 | 好好看 | English |
-| [arthurchiao](https://arthurchiao.art/blog/bpf-advanced-notes-1-zh/) | 2023.04.12 | ebpf | 高产 |
-| [海街日记](https://sea-st.eu.org/) | 2023.06.26 | 诗 | 卧槽，我太喜欢这人的文字了 |
-| [oimo.io](https://oimo.io/) | 2023.08.07 | 日语 | 我直接呆住了 |
-| [拾月](https://www.skyue.com/archives.html) | 2023.08.24 | 细腻的人 | 文笔真好 |
-| [paulfioravanti](https://www.paulfioravanti.com/) | 2023.10.12 | English | thanks-past-me |
